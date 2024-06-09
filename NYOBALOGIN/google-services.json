@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "554669107935",
+    "firebase_url": "https://login-register-nyoba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "login-register-nyoba",
+    "storage_bucket": "login-register-nyoba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554669107935:android:a81caa4bba3f777895976a",
+        "android_client_info": {
+          "package_name": "com.example.firebasekt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx771NvP3b-Z2Z7HDcQtRNkk7gehouXeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554669107935:android:bac8bb4668c9641695976a",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx771NvP3b-Z2Z7HDcQtRNkk7gehouXeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554669107935:android:e75d30afbd7b872e95976a",
+        "android_client_info": {
+          "package_name": "com.example.nyobalogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx771NvP3b-Z2Z7HDcQtRNkk7gehouXeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554669107935:android:dac2c32386510f0a95976a",
+        "android_client_info": {
+          "package_name": "com.example.tesfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx771NvP3b-Z2Z7HDcQtRNkk7gehouXeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
+{
+  "rules": {
+    ".read": "true",
+    ".write": "true"
+  }
+}
